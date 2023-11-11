@@ -4,7 +4,7 @@
 
 @section('content')
 <!-- main page -->
-<div class="jumbotron">
+<div class="jumbotron" style="width: 100%; height: 85vh; overflow: scroll; overflow-x: hidden">
   <h1 class="display-4">LMS</h1>
   <p class="lead">A learning management system (LMS) for teachers and students.</p>
   <p class="lead">As a teacher, you can create and manage subjects and tasks, view their details, and evaluate solutions.</p>
